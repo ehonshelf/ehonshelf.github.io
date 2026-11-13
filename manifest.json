@@ -1,0 +1,23 @@
+{
+ "name": "絵本だな",
+ "short_name": "絵本だな",
+ "description": "0〜5歳の絵本を、図書館でさがすための本だな。手元の一冊、好きなもの、季節から、この子のつぎの一冊が見つかります。",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#f2f6f0",
+ "theme_color": "#f2f6f0",
+ "lang": "ja",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
